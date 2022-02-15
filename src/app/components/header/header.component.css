@@ -1,0 +1,12 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 15px;
+  background-color: #1976d2;
+  width: 100%;
+}
+
+header a h2 {
+  color: white !important;
+}
